@@ -21,11 +21,12 @@ To run the website locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <Golf-Website
+>
    ```
 2. Navigate to the project directory:
    ```sh
-   cd golf-website
+   cd Golf-Website
    ```
 3. Open the `index.html` file in your preferred web browser.
 
