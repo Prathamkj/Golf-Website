@@ -24,9 +24,10 @@ To run the website locally, follow these steps:
 
    ```
 2. Navigate to the project directory:
+   ```
    cd Golf-Website
    ```
-3. Open the `index.html` file in your preferred web browser.
+4. Open the `index.html` file in your preferred web browser.
 
 - Enjoy the animations and interactive elements that enhance the overall experience.
 
